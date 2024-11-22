@@ -1,0 +1,6 @@
+{
+  "EC2": {
+    "resources-1": [{ "key": "value" }],
+    "resources-2": [{ "key2": "value2" }]
+  }
+}
